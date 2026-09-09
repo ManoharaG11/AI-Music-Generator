@@ -214,11 +214,6 @@ Possible improvements include:
 * Real-time music generation
 * Transformer-based music generation
 
-## 🎓 Internship Task
-
-This project was developed as part of the **CodeAlpha Artificial Intelligence Internship** under:
-
-**Task 3 — Music Generation with AI**
 
 ## 👨‍💻 Author
 
