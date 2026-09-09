@@ -1,0 +1,47 @@
+# ==========================================
+# AI Music Generator - Git Ignore
+# ==========================================
+
+# Virtual environments
+venv/
+venv311/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large MIDI dataset
+data/midi/
+
+# Generated training data
+data/X.npy
+data/y.npy
+data/notes.pkl
+
+# Logs
+*.log
+
+# Generated temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# TensorFlow / ML cache
+.keras/
